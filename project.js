@@ -24,7 +24,7 @@ $(document).ready(function () {
         })
         //------------------------------------------------------------------
 
-var getTripAdvisorData = function(location){
+//var getTripAdvisorData = function(location){
     var settings = {
 
         //endpoint: locations/search
@@ -52,7 +52,7 @@ var getTripAdvisorData = function(location){
         
                       //$('.trip-advisor-api').append(`<br><img src="${imageURL}" class="img-fluid" alt="Responsive image"></img width="${imageWidth}">`);
                 });
-}
+//}
     }
     //-------------------------------------------------------------------------------------------------------------------------------------------------------------------
     //trip advisor
